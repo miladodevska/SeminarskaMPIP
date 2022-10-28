@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "450100880772",
+    "project_id": "fixmyhouse-517e1",
+    "storage_bucket": "fixmyhouse-517e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450100880772:android:22fd936e1e68789d1529d1",
+        "android_client_info": {
+          "package_name": "com.example.fixmyhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450100880772-2qbtprl5llmc44bg34dhkp517n888eeg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fixmyhouse",
+            "certificate_hash": "47a6852eafc8616a30262994cf68ca1ab6ae7dee"
+          }
+        },
+        {
+          "client_id": "450100880772-4931bsgfvej13qrf4fci617n88b0643j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB99QySigIxyNNKyxq5nxXsMCsuEw50pjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450100880772-4931bsgfvej13qrf4fci617n88b0643j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
